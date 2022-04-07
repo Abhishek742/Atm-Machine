@@ -1,9 +1,13 @@
 # Atm-Machine
 To program an Automated Teller Machine to show the main menu specified below and perform the list of tasks given.
- ->Load Cash to ATM
- ->Show Customer Details
- ->Handle ATM Process
-    i)Check balance 
-    ii)Withdraw money
-    iii)Transfer money
-    iv)Check Atm Balance
+
+ a) Load Cash to ATM
+ 
+ b) Show Customer Details
+ 
+ c) Handle ATM Process
+ 
+    1. Check balance  
+    2. Withdraw money 
+    3. Transfer money 
+    4. Check Atm Balance
